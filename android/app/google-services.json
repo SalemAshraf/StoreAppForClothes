@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673923452538",
+    "project_id": "zara-ecommerce-app",
+    "storage_bucket": "zara-ecommerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673923452538:android:19a0f935a13087f5cfb5c3",
+        "android_client_info": {
+          "package_name": "com.example.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673923452538-sjdv156t0r7aj8jolv3e1scdftf3avno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSuI9OXomBhd27g5kEzimiaXv8qKJdoWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673923452538-sjdv156t0r7aj8jolv3e1scdftf3avno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
